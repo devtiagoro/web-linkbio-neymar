@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+ 
 }
 
 /************************************Estilo Banner*/
@@ -95,4 +95,65 @@
 .container-links a:hover {
     background-color: #fff;
     color: #000;
+}
+
+/************************************Estilo Estatísticas*/
+
+.estatisticas {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    height: 100vh;
+    background-image: url(assets/imagem-de-fundo.jpg);
+    background-size: cover;
+}
+
+.conteudo-estatisticas {
+    width: 768px;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+caption {
+    margin-bottom: 40px;
+    
+    color: white;
+
+    font-size: 40px;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+th, td {
+    padding: 20px;
+    font-weight: bold;
+}
+
+thead tr {
+    background-color: #0200006e;
+    color: white;
+}
+
+tbody tr:nth-of-type(even) {
+    background-color: #0200006e;
+    color: white;
+}
+
+tbody tr:nth-of-type(odd) {
+    background-color: #f2ffffb9;
+    color: #000000;
+}
+
+tbody td:first-of-type {
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+tbody td img {
+    width: 30px;
+    margin-right: 10px;
 }
