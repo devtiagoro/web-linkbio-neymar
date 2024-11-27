@@ -7,11 +7,11 @@ Com ele, vou colocar em prática alguns conceitos importantes e explorar diversa
 
 <p>✅ Uso de pseudo-classes e pseudo-elementos para:</p>
 
-**`🖼️ Criar uma borda com gradiente na imagem de perfil do Neymar Jr.;`**
-**`🔡 Adicionar uma tarja estilizada abaixo das letras "Ne" no título "Neymar Jr.";`**
-**`✔️ Exibir um ícone de perfil verificado ao lado direito do título "Neymar Jr.";`**
-**`🖱️ Alterar a cor de fundo dos links quando o cursor passar sobre eles.`**
-**`📊 Efeitos personalizados para tabelas:`**
+**`🖼️ Criar uma borda com gradiente na imagem de perfil do Neymar Jr.;`**<br>
+**`🔡 Adicionar uma tarja estilizada abaixo das letras "Ne" no título "Neymar Jr.";`**<br>
+**`✔️ Exibir um ícone de perfil verificado ao lado direito do título "Neymar Jr.";`**<br>
+**`🖱️ Alterar a cor de fundo dos links quando o cursor passar sobre eles.`**<br>
+**`📊 Efeitos personalizados para tabelas:`**<br>
 
 Vou fazer com que as linhas ímpares tenham cor de fundo preta 🖤;
 E as linhas pares tenham cor de fundo branca 🤍.
