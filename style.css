@@ -74,6 +74,18 @@
     font-weight: bold;
     font-family: 'Ysabeau Infant', sans-serif;
     font-size: 34px;
+
+    text-shadow: 3px 2px 1px #000;
+}
+
+h1::before {
+    content:"";
+    width: 40px;
+    height: 3px;
+    background: linear-gradient(90deg, #ffdf00, #009c3b);
+    position: absolute;
+    bottom: 389px;
+    border-radius: 4px;
 }
 
 .container-info h1::after {
@@ -108,7 +120,7 @@
 
     border-radius: 20px;
     border: 1px solid #000;
-    background-color: #0200006e;
+    background-color: #0200009a;
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -159,6 +171,7 @@ caption {
     font-size: 40px;
     font-family:  'Montserrat', sans-serif;
     font-weight: bold;
+    text-shadow: 3px 2px 1px #000;
 }
 
 th, td {
