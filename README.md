@@ -5,7 +5,7 @@ Com ele, vou colocar em prática alguns conceitos importantes e explorar diversa
 
 ### 🌟 Diferenciais do meu projeto:
 
-##### ✅ Uso de pseudo-classes e pseudo-elementos para:</p>
+##### Uso de pseudo-classes e pseudo-elementos para:</p>
 
 **`🖼️ Criar uma borda com gradiente na imagem de perfil do Neymar Jr.;`**<br>
 **`🔡 Adicionar uma tarja estilizada abaixo das letras "Ne" no título "Neymar Jr.";`**<br>
