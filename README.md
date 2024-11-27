@@ -11,10 +11,12 @@ Com ele, vou colocar em prática alguns conceitos importantes e explorar diversa
 **`🔡 Adicionar uma tarja estilizada abaixo das letras "Ne" no título "Neymar Jr.";`**<br>
 **`✔️ Exibir um ícone de perfil verificado ao lado direito do título "Neymar Jr.";`**<br>
 **`🖱️ Alterar a cor de fundo dos links quando o cursor passar sobre eles.`**<br>
-**`📊 Efeitos personalizados para tabelas:`**<br>
 
-Vou fazer com que as linhas ímpares tenham cor de fundo preta 🖤;
-E as linhas pares tenham cor de fundo branca 🤍.
+
+### 📊 Efeitos personalizados para tabelas:`**
+
+**`Vou fazer com que as linhas ímpares tenham cor de fundo preta 🖤;`**<br>
+**`E as linhas pares tenham cor de fundo branca 🤍.`**
 
 ### 🎥 Plano de fundo com vídeo:
 
