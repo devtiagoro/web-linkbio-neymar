@@ -54,6 +54,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .container-info::before {
@@ -78,13 +79,17 @@
     text-shadow: 3px 2px 1px #000;
 }
 
+.tarja {
+    position: relative; 
+}
+
 h1::before {
     content:"";
     width: 40px;
     height: 3px;
     background: linear-gradient(90deg, #ffdf00, #009c3b);
     position: absolute;
-    bottom: 389px;
+    bottom: 3px;
     border-radius: 4px;
 }
 
